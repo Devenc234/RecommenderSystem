@@ -1,0 +1,16 @@
+{
+  "name": "exploremongonode",
+  "version": "1.0.0",
+  "description": "exploring mongodb with node js",
+  "main": "demo_create_mongo_db.js",
+  "dependencies": {
+    "mongodb": "^3.0.4",
+    "mongoose": "^5.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
